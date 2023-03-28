@@ -1,4 +1,4 @@
-[![MasterHead](https://tse2.mm.bing.net/th?id=OIP.DnCk-yFdd7IoGB0okXNSPgHaDt&pid=Api&P=0)
+[![MasterHead]([https://tse2.mm.bing.net/th?id=OIP.DnCk-yFdd7IoGB0okXNSPgHaDt&pid=Api&P=0](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif))
 <h1 align="center">Hi 👋, I'm Gagan J</h1>
 <<h3 align="center">A passionate Data Science practitioner</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
